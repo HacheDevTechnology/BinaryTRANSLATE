@@ -1,0 +1,6 @@
+{
+  "name": "Traductor UTF-8 a Binario",
+  "description": "Una aplicación simple y rápida para traducir texto (UTF-8) a código binario y viceversa, con un diseño limpio y moderno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
